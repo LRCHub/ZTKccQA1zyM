@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アクション",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-02-07T05:17:26.613738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピース・オブ・ユア・アクション",
+      "artist": "Mötley Crüe",
+      "has_synced": false,
+      "path": "select/01_ピース・オブ・ユア・アクション_Mötley_Crüe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イージー・アクション",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/02_イージー・アクション_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レディー・アクション!",
+      "artist": "ミラクル☆キラッツ(cv.林 鼓子、久保田未夢)",
+      "has_synced": true,
+      "path": "select/03_レディー・アクション!_ミラクル☆キラッツ(cv.林_鼓子、久保田未夢).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レディー・アクション！",
+      "artist": "ミラクル☆キラッツ(cv.林鼓子、久保田未夢)",
+      "has_synced": true,
+      "path": "select/04_レディー・アクション!_ミラクル☆キラッツ(cv.林鼓子、久保田未夢).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アクション",
+      "artist": "Hermann H. & The Pacemakers",
+      "has_synced": true,
+      "path": "select/05_アクション_Hermann_H._&_The_Pacemakers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レディー・アクション!",
+      "artist": "ミラクル☆キラッツ (林鼓子, 久保田未夢, 厚木那奈美)",
+      "has_synced": true,
+      "path": "select/06_レディー・アクション!_ミラクル☆キラッツ_(林鼓子,_久保田未夢,_厚木那奈美).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "レディー・アクション!",
+      "artist": "ミラクル☆キラッツ (林鼓子, 久保田未夢)",
+      "has_synced": false,
+      "path": "select/07_レディー・アクション!_ミラクル☆キラッツ_(林鼓子,_久保田未夢).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "神魂合体ゴーダンナー!!(スーパー・アクション・サウンド)",
+      "artist": "串田アキラ",
+      "has_synced": false,
+      "path": "select/08_神魂合体ゴーダンナー!!(スーパー・アクション・サウンド)_串田アキラ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アクション",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_アクション_AKASAKI.txt"
+    }
+  ]
+}
